@@ -2,7 +2,7 @@
 ## Usage
 
  - npm init -y
- - npm ci
+ - npm i
  - npm start 
 
  
